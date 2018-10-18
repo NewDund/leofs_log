@@ -1,0 +1,8 @@
+run_erl [69846] Thu Oct 18 11:12:55 2018
+Args before exec of shell:
+run_erl [69846] Thu Oct 18 11:12:55 2018
+argv[0] = sh
+run_erl [69846] Thu Oct 18 11:12:55 2018
+argv[1] = -c
+run_erl [69846] Thu Oct 18 11:12:55 2018
+argv[2] = exec /usr/local/leofs/1.4.2/leo_storage/bin/leo_storage console 
